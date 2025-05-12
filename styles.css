@@ -23,6 +23,7 @@ body {
   transition: transform 0.3s ease;
 }
 
+
 .blokas:hover {
   transform: scale(1.05);
 }
@@ -38,4 +39,5 @@ body {
 
 .blokas:nth-child(3n) {
   background-color: #2ecc71; /* žalia */
+
 }
